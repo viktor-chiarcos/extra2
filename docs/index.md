@@ -1,3 +1,9 @@
+---
+layout: home
+permalink: /extra2/
+title: "Extras Nr. 2"
+excerpt: "Die Webseite"
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/acoli-repo/olia/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

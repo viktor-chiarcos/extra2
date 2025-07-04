@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-title: Minimal theme
+title: "Extras 2"
 logo: /assets/img/logo.png
 description: Minimal is a theme for GitHub Pages.
 show_downloads: true
-google_analytics:
+google_analytics: true
 theme: jekyll-theme-minimal
-=======
 url: "https://viktor-chiarcos.github.io/extra2/"
 theme: "jekyll-theme-minimal"
->>>>>>> 4d030ac87f72a972ea81daea071b354c7a22465c

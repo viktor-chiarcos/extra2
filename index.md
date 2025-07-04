@@ -2,7 +2,6 @@
 title: "Extras 2 auf Viktor's Webseite"
 permalink: /
 layout: default
-logo: /logo.svg
 ---
 
 # Menü

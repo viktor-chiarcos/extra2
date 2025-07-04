@@ -6,4 +6,4 @@ layout: default
 
 # Das sind Viktors Extras 2
 ## Optionen
-##### [STARTSEITE](/)
+##### [STARTSEITE](../..)

@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 layout: default
 ---
 
@@ -121,3 +122,21 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 The final element.
 ```
+=======
+layout: home
+permalink: /extra2/
+title: "Extras Nr. 2"
+excerpt: "Die Webseite"
+---
+
+# Menü
+
+- # [HTML Extras](/html)
+- # [Extras verlassen](/)
+- # Startseite
+
+# Herzlich Wilkommen im Internet
+
+Ihr befindet euch gerade auf Viktor's Webseite.\
+**Standort:** *[https://viktor-chiarcos.github.io/extra2/](https://viktor-chiarcos.github.io/extra2/)*
+>>>>>>> 4d030ac87f72a972ea81daea071b354c7a22465c

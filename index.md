@@ -1,7 +1,7 @@
 ---
 title: "Extras 2 auf Viktor's Webseite"
 permalink: /
-layout: default
+layout: page
 ---
 
 # Menü

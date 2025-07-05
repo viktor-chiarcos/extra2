@@ -1,7 +1,7 @@
 ---
 title: "Viktor's Extras (2)"
 permalink: /extra2/
-layout: default
+layout: post
 ---
 
 # Das sind Viktors Extras 2
